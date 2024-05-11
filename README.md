@@ -17,7 +17,7 @@
   
 * Para utilizar o projeto você precisara de uma API Key que pode ser adiquireda no seguinte site: https://aistudio.google.com/app/prompts/new_chat
   
-* O projeto pode ser acesado ao clicar no botão visualizar em google colab na pagina desse repositório 
+* O projeto pode ser acesado ao clicar no botão open in colab no arquivo principal 
   
 * Antes de executar todos os Blocos vá em uma opção de chave no lado esquerdo da tela do colab lá clique em adicionar novo secret e depois escreva em nome - Secret_Key e em valor cole a chave que gerou depois habilite o Acesso ao notebook
   
