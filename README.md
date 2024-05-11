@@ -1,7 +1,7 @@
 <h1 align="center"> Criacao_personagem_baseado_em_RWBY_para_imercao</h1>
 
 <h2>Descrição do Projeto</h2>
-* O projeto se trata de um chatbot que consegue criar um personagem para um RPG com base em na animação RWBY, e experimentar algums comandos simples que realizam determinada ação depois que seu personagem estiver pronto.
+O projeto se trata de um chatbot que consegue criar um personagem para um RPG com base em na animação RWBY, e experimentar algums comandos simples que realizam determinada ação depois que seu personagem estiver pronto.
 <h2>Status do Projeto</h2>
 <h4 align="center"> 
    :white_check_mark:Projeto finalizado porem, é possivel que aja atualizações :exclamation:
